@@ -3,8 +3,8 @@
 Design your App
 
 Designer Screen
-DISMATH-Project.-Hello-World/proj1.dismath.jpg
+-https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH-Project.-Hello-World/blob/master/proj1.dismath.jpg?raw=true
 
 Block Screen
-DISMATH-Project.-Hello-World/proj1.dismath.2.jpg
+-https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH-Project.-Hello-World/blob/master/proj1.dismath.2.jpg?raw=true
 
