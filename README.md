@@ -1,8 +1,8 @@
 # DISMATH-Project.-Hello-World
 
--Design your App
+Design your App
 
--Designer Screen
+Designer Screen
 ![Screenshots](proj1.dismath.jpg)
 
 Block Screen
